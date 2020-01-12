@@ -1,5 +1,5 @@
 # VR-Experiment-Design
-This prototype was developed for thesis experiments. I created this vr project with unity engine and the Plugin google Resonance Audio.  [latest release](/releases/latest)
+This prototype was developed for thesis experiments. I created this vr project with unity engine and the Plugin google Resonance Audio.  [latest release](https://github.com/MomoVCHH/VR-Experiment-Design/releases/latest)
 
 This project is created based on the gamification principle. The purpose of this experiment is: which type of sensory feedback can best support human memory. There are five sensory models.
 
